@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>this is an operation application aint it my guy</Text>
+      <Text>this is an operation application aint it my guy </Text>
     </View>
   );
 }
